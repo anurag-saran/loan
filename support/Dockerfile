@@ -2,3 +2,4 @@
 FROM asaran/brms-realtime-decicion-server-demo
 MAINTAINER Anurag Saran asaran@redhat.com
 EXPOSE 8080
+EXPOSE 9990
